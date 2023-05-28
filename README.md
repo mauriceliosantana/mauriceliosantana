@@ -2,7 +2,6 @@
 
 - 📓 Estudando desenvolvimento web (HTML, CSS, JavaScript, React e PHP)
 - 🐍 Habilidade com Python
-- 🕐 Em breve: Desenvolvimento Mobile e Design UX
 
 ##
 
